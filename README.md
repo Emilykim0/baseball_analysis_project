@@ -13,7 +13,12 @@
 
 ## 🏗️ 폴더 구조
 
-baseball_analysis_project/ ├── baseball_MLB.ipynb # 분석용 Jupyter Notebook ├── final_mlb_season_stats_updated.csv # MLB 타자 지표 CSV 파일 └── README.md # 프로젝트 설명 파일
+```
+baseball_analysis_project/
+├── baseball_MLB.ipynb               # 분석용 Jupyter Notebook
+├── final_mlb_season_stats_updated.csv  # MLB 타자 지표 CSV 파일
+└── README.md                        # 프로젝트 설명 파일
+```
 
 ---
 
